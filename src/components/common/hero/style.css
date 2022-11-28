@@ -1,0 +1,36 @@
+.hero{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 7rem;
+}
+.hero h2{
+  color: red;
+  font-size: 34px;
+}
+.herobtn{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.herofrom{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  margin-top: 50px;
+  box-shadow: 0px 0px 12px 0px rgba(71,81,91,0.91);
+  padding: 10px 0px;
+  max-width: 900px;
+  margin: auto;
+}
+.usefrom{
+  flex-basis: 23%;
+  display: flex;
+  justify-content: flex-start;
+  text-align: left;
+  flex-direction: column;
+  padding: 10px 20px;
+  margin: 0px 20px;
+}
