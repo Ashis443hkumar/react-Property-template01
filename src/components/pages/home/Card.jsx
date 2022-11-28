@@ -205,6 +205,7 @@ export default function Card() {
           </div>
         </div>
       </div>
+      
       <div className="card-info">
         <img src="https://images.pexels.com/photos/3555619/pexels-photo-3555619.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" class="img-fluid " />
         <div className="card-info p-3">
